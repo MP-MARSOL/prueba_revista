@@ -54,14 +54,14 @@
 
 <div class="col-lg-4">
 
-<div class="card " style="width: 100%;">
+<div class="card " style="width: 14rem;">
   <img src="img/1.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text"><B>CUMBREBRE DE AFRICA</B> </p>
   </div>
 </div>
 
-<div class="card mt-3" style="width: 100%;">
+<div class="card mt-3" style="width: 14rem;">
   <img src="img/3.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text"> <B>REUNION EN LA CORTE</B> </p>
