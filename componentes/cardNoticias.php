@@ -2,16 +2,16 @@
     <div class="card" style="width: 18rem;">
         <img src="./img/3.jpeg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <h5 class="card-title">Audiencia del Presidente de la Corte Suprema de Justicia con su homólogo español</h5>
+            <p class="card-text">El Presidente de la Corte Suprema de Justicia, David Nguema Obiang, ha mantenido un encuentro en la tarde del viernes 12 de julio con su homólogo español, Carlos Lesmes Serrano..</p>
             <a href="#" class="btn btn-primary">Leer Más</a>
         </div>
     </div>
     <div class="card" style="width: 18rem;">
         <img src="./img/2.jpeg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <h5 class="card-title">El Jefe de Estado preside el quinto Consejo de Ministros de 2023</h5>
+            <p class="card-text">El Presidente de la República, Jefe de Estado y Gobierno, S. E. Obiang Nguema Mbasogo, ha presidido este viernes, 15 de septiembre, el quinto Consejo de Ministros correspondiente al presente año 2023.</p>
             <a href="#" class="btn btn-primary">Leer Más</a>
         </div>
     </div>
