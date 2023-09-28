@@ -1,0 +1,8 @@
+.cardNoti{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+.cardNoti .card{
+    margin: 5px;
+}
