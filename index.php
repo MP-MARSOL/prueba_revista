@@ -16,6 +16,8 @@
   <body>
     <?php  require_once "./componentes/head.php";?>
     <?php  require_once "./componentes/slider.php";?>
+    <?php  require_once "./componentes/cardNoticias.php";?>
+    <?php  require_once "./componentes/presentacion.php";?>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
