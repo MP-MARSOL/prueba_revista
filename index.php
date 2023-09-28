@@ -11,6 +11,7 @@
 
 
     <link rel="stylesheet" href="componentes/styles.css">
+    <link rel="stylesheet" href="./css/estilos.css">
     <title></title>
   </head>
   <body>
