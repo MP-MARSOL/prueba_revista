@@ -1,0 +1,11 @@
+.container{
+  
+    
+    width: 60rem;
+    height: 30rem;
+    max-width: 120rem !important;
+}
+
+.carousel-item img{
+    width: 100%;
+}
