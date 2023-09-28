@@ -11,7 +11,8 @@
     <title></title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <?php  require_once "./componentes/head.php";?>
+    <?php  require_once "./componentes/slider.php";?>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
